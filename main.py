@@ -2,7 +2,7 @@ import asyncio
 
 from bot import MyBot
 
-channel_id1 = 1109443647717527623
+channel_id1 = 534252345
 
 
 
